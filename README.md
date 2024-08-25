@@ -13,30 +13,34 @@ This is a simple e-commerce web application that allows users to view products, 
 6. Form Validation: The project includes validation for email, password, and phone number formats to ensure data integrity.
 
 # Installation
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/yourusername/simple-ecommerce-project.git
-Navigate to the project directory:
-bash
-Copy code
+1. Clone the repository to your local machine:
+git clone https://github.com/AhmedMohamed50/E-Commerce_project
+
+2. Navigate to the project directory:
 cd simple-ecommerce-project
-Open the index.html file in your browser to start using the application.
-Usage
-Product Listing
+
+3. Open the index.html file in your browser to start using the application.
+
+# Usage
+1. Product Listing
 On the homepage, you can see a list of products. Click the Add to Cart button to add products to your shopping cart.
-Cart
+
+2. Cart
 Click the cart icon in the top-right corner to view your cart. You can update the quantity of items or remove them from your cart.
-Sign-Up & Login
+
+3. Sign-Up & Login
 On the sign-up page, enter your first name, an email with the format *@iti.com, and a password to register.
 Once registered, you can log in with the same email and password.
-Checkout
+
+4. Checkout
 After logging in, you can proceed to checkout from the cart page. This will display an alert confirming the checkout process.
-Validation Rules
+
+5. Validation Rules
 Email: Must end with @iti.com.
 Password: Must be at least 8 characters long.
 Phone Number: Must follow a valid phone number format.
-Folder Structure
+
+6. Folder Structure
 index.html: Homepage with product listings.
 login.html: Login form.
 signup.html: Sign-up form with validation.
@@ -44,11 +48,11 @@ cart.html: Cart page displaying added items.
 style.css: Basic styling for the pages.
 script.js: Main JavaScript file handling product and cart operations.
 products.json: A JSON file that simulates product data.
-Future Improvements
+
+7. Future Improvements
 Add a backend to handle product storage, user authentication, and order management.
 Enhance UI design for a better user experience.
 Implement payment gateway integration for real purchases.
-Contributing
-Feel free to fork this project and submit pull requests. Any feedback or feature requests are welcome.
-# Features
-1. home page for 
+
+8.Contributing
+Feel free to fork this project and submit pull requests. Any feedback or feature requests are welcome. 
