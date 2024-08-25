@@ -54,5 +54,5 @@ Add a backend to handle product storage, user authentication, and order manageme
 Enhance UI design for a better user experience.
 Implement payment gateway integration for real purchases.
 
-8.Contributing
+8. Contributing
 Feel free to fork this project and submit pull requests. Any feedback or feature requests are welcome. 
